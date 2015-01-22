@@ -1,7 +1,7 @@
 # hello-node
 Simple http server using node.js
-Takes two values as input - 
-1) numDigits - number of digits
+Takes two values as input - <br/>
+1) numDigits - number of digits<br/>
 2) numRandom - number of random numbers to generate
 
 Returns numRandom random numbers of numDigits each.
